@@ -1,0 +1,33 @@
+[
+  {
+  "type": "location",
+  "title": "鹽水天主聖神堂",
+  "address": "737台南市鹽水區西門路19號",
+  "latitude": 23.31889431727266,
+  "longitude": 120.26608637985066
+},
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "thumbnailImageUrl": "https://s.yimg.com/ny/api/res/1.2/RHIy86BJC4jQjIdbQsvH9A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTk2MDtoPTY0MA--/https://s.yimg.com/uu/api/res/1.2/a6t4E5kyGxp5x4o4npafrg--~B/aD00MDA7dz02MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/mook__193/cd6fb63dfcb58fde25f3305863ae2c3c",
+    "imageAspectRatio": "square",
+    "imageSize": "cover",
+    "title": "台南鹽水教堂",
+    "text": "電風做禮拜的教堂",
+    "actions": [
+      {
+        "type": "message",
+        "label": "景點介紹",
+        "text": "@最後的晚餐台灣鹽水版! 這不是廟，這是教堂！鹽水天主神聖堂一直是許多旅人覺得很有趣的地方，明明是天主教卻又有著廟宇式的建築，只有外觀建築中式不稀奇，內部可以說是中西合併的極致了，早期為了讓 人信主耶穌，只能說讓當時傳教的神父們真的絞盡腦汁，連名畫”最後的晚餐\"都改成了漢化版，食物變成包子，還拿著筷子等中式餐具，如此中西合併的大作改 造，都是為了融入地方，讓當時更多人容易接受新的宗教觀，現在觀念開放許多，當時的壁畫就顯得很珍貴了。"
+      },
+      {
+        "type": "message",
+        "label": "來尋寶吧!!!",
+        "text": "@找出教堂指定場景或物品，拍照上傳，答案正確，即可累積經驗!!"
+      }
+    ]
+  }
+}
+]

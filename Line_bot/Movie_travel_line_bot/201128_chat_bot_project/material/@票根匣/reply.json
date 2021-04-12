@@ -1,0 +1,53 @@
+
+
+
+[{
+  "type": "template",
+  "altText": "this is an image carousel template",
+  "template": {
+    "type": "image_carousel",
+    "columns": [
+      {
+        "imageUrl": "https://truth.bahamut.com.tw/s01/201602/521b147849808727cd7b18aab10c85ad.JPG",
+        "action": {
+          "type": "message",
+          "label": "下載",
+          "text": "@"
+        }
+      },
+      {
+        "imageUrl": "https://apoarea.tw/wp-content/uploads/20181024084009_77.jpg",
+        "action": {
+          "type": "message",
+          "label": "下載",
+          "text": "@"
+        }
+      },
+      {
+        "imageUrl": "https://attach.mobile01.com/attach/201407/mobile01-73b66d6030ee2e2781453db8c2bda07a.jpg",
+        "action": {
+          "type": "message",
+          "label": "下載",
+          "text": "@"
+        }
+      },
+      {
+        "imageUrl": "https://cf.shopee.tw/file/97b420e7025d59e4914ab2ce8bb3f10e",
+        "action": {
+          "type": "message",
+          "label": "下載",
+          "text": "@"
+        }
+      },
+      {
+        "imageUrl": "https://cf.shopee.tw/file/277b564e08e89669c27630864cba51d7",
+        "action": {
+          "type": "message",
+          "label": "下載",
+          "text": "@"
+        }
+      }
+    ]
+  }
+}
+  ]

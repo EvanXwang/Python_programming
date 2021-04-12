@@ -1,0 +1,27 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "thumbnailImageUrl": "https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2020/11/12/1/9061076.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=1050",
+    "imageAspectRatio": "square",
+    "imageSize": "cover",
+    "title": "            找尋光影， 跟著電影去旅行",
+    "text": "帶你重回電影場景中，在屬於你的旅行微電影中，你就是主角。現在就準備出發吧!!  (本次最高可收集5點經驗)",
+    "actions": [
+      {
+        "type": "message",
+        "label": "劇情介紹",
+        "text": "@黃信堯導演第二部長片，鍾孟宏監製。四個喜歡在泡沫紅茶店聊天打牌的同窗好友，他們的愛情、婚姻與事業關卡，意外考驗了彼此的友誼。 電影預告：https://www.youtube.com/watch?v=QOMQEi7Jj_g"
+      },
+      {
+        "type": "postback",
+        "label": "選擇電影經典場景",
+        "text": "@go",
+        "data": "data1"
+      }
+    ]
+  }
+}
+]

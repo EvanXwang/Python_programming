@@ -1,0 +1,21 @@
+[
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "thumbnailImageUrl": "https://i.pinimg.com/originals/16/41/b3/1641b32dbae1a28848de4137fda35146.png",
+    "imageAspectRatio": "rectangle",
+    "imageSize": "contain",
+    "title": "      把電癮咖分享給好友",
+    "text": "分享一位好友，可累積經驗 ，快速提升會員等級，享有更多優惠喔",
+    "actions": [
+      {
+        "type": "uri",
+        "label": "我要賺經驗值!!!",
+        "uri": "https://line.me/R/nv/recommendOA/@917dvdtq"
+      }
+    ]
+  }
+}
+]

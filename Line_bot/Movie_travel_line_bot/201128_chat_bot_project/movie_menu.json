@@ -1,0 +1,84 @@
+
+  {
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "電影人",
+  "chatBarText": "Menu選單メニュー",
+  "areas": [
+    {
+      "bounds": {
+        "x": 915,
+        "y": 151,
+        "width": 709,
+        "height": 1010
+      },
+      "action": {
+        "type": "message",
+        "text": "@找尋光影"
+      }
+    },
+    {
+      "bounds": {
+        "x": 937,
+        "y": 1352,
+        "width": 697,
+        "height": 276
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://movies.yahoo.com.tw/movie_thisweek.html"
+      }
+    },
+    {
+      "bounds": {
+        "x": 62,
+        "y": 1361,
+        "width": 726,
+        "height": 276
+      },
+      "action": {
+        "type": "message",
+        "text": "哈囉"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1760,
+        "y": 173,
+        "width": 701,
+        "height": 986
+      },
+      "action": {
+        "type": "message",
+        "text": "@好康分享給朋友"
+      }
+    },
+    {
+      "bounds": {
+        "x": 70,
+        "y": 145,
+        "width": 706,
+        "height": 1027
+      },
+      "action": {
+        "type": "message",
+        "text": "@集票根"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1782,
+        "y": 1366,
+        "width": 668,
+        "height": 264
+      },
+      "action": {
+        "type": "message",
+        "text": "@個人資訊"
+      }
+    }
+  ]
+}

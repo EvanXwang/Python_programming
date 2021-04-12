@@ -1,0 +1,32 @@
+[
+  {
+ "type": "location",
+  "title": "高雄老瓊泡沫紅茶店",
+  "address": "800高雄市新興區玉竹一街22號",
+  "latitude": 22.625441191497575,
+  "longitude": 120.30193284011759
+},
+{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "thumbnailImageUrl": "https://www.dramaqueen.com.tw/upload/images/《同學麥娜絲》「四人幫」代表四種現代人縮影.jpg",
+    "imageAspectRatio": "square",
+    "title": "    高雄老瓊泡沫紅茶專賣店",
+    "text": "電影以四位老同學相聚在泡沫紅茶店為開頭",
+    "actions": [
+      {
+        "type": "message",
+        "label": "景點介紹",
+        "text": "@十幾二十年前，三五好友常常泡在泡沫紅茶店，或者是俗稱的茶坊，打屁聊天刁牌，一坐就是一整個晚上甚至坐到早上， 隨著時代演進好改變，一些年輕時的娛樂消遣，也漸漸地被遺忘，我想這是許多六七年級生很多人的共同回憶吧"
+      },
+      {
+        "type": "message",
+        "label": "來尋寶吧!!!",
+        "text": "@找出紅茶店指定場景或物品，拍照上傳，答案正確，即可累積經驗!!"
+      }
+    ]
+  }
+}
+]

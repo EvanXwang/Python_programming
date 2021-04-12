@@ -1,0 +1,27 @@
+[
+{
+  "type": "template",
+  "altText": "this is an image carousel template",
+  "template": {
+    "type": "image_carousel",
+    "columns": [
+      {
+        "imageUrl": "https://media.zenfs.com/en/mook__193/406f3243f76eab31159433ec95db1098",
+        "action": {
+          "type": "message",
+          "label": "提示",
+          "text": "@ $^#%$&^% ，拿出來刁啦!  "
+        }
+      },
+      {
+        "imageUrl": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BB19OTSS.img?h=333&w=799&m=6&q=60&o=f&l=f",
+        "action": {
+          "type": "message",
+          "label": "提示",
+          "text": "@主角們都喝什麼???"
+        }
+      }
+    ]
+  }
+}
+]

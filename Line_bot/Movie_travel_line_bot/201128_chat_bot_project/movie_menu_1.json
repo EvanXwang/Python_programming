@@ -1,0 +1,97 @@
+
+  {
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "電影人2",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 1213,
+        "y": 1143,
+        "width": 5,
+        "height": 74
+      },
+      "action": {
+        "type": "message",
+        "text": "範圍 1"
+      }
+    },
+    {
+      "bounds": {
+        "x": 25,
+        "y": 37,
+        "width": 792,
+        "height": 1139
+      },
+      "action": {
+        "type": "message",
+        "text": "@集票根"
+      }
+    },
+    {
+      "bounds": {
+        "x": 870,
+        "y": 45,
+        "width": 764,
+        "height": 1114
+      },
+      "action": {
+        "type": "message",
+        "text": "@找尋光影"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1679,
+        "y": 45,
+        "width": 796,
+        "height": 1131
+      },
+      "action": {
+        "type": "message",
+        "text": "@好康分享給朋友"
+      }
+    },
+    {
+      "bounds": {
+        "x": 25,
+        "y": 1349,
+        "width": 779,
+        "height": 305
+      },
+      "action": {
+        "type": "message",
+        "text": "哈囉"
+      }
+    },
+    {
+      "bounds": {
+        "x": 870,
+        "y": 1353,
+        "width": 797,
+        "height": 289
+      },
+      "action": {
+        "type": "postback",
+        "text": "@電癮",
+        "data": "data3"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1733,
+        "y": 1374,
+        "width": 717,
+        "height": 272
+      },
+      "action": {
+        "type": "message",
+        "text": "@個人資訊"
+      }
+    }
+  ]
+}

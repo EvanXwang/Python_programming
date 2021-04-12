@@ -1,0 +1,35 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+
+"flask" = "*"
+"line-bot-sdk" = "*"
+"bs4" = "*"
+"prettytable" = "*"
+"tensorflow" = "*"
+"Pillow" = "*"
+"Opencc" = "*"
+"pymongo" = "*"
+"pytesseract" = "*"
+"pandas" = "*"
+"pytesseract" = "*"
+"stocker" = "*"
+
+
+
+
+
+
+
+
+
+
+
+[dev-packages]
+
+
+[requires]
+python_version = "3.8"

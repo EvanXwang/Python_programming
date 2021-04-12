@@ -1,0 +1,35 @@
+[
+{
+  "type": "template",
+  "altText": "this is an image carousel template",
+  "template": {
+    "type": "image_carousel",
+    "columns": [
+      {
+        "imageUrl": "https://scontent.ftpe9-1.fna.fbcdn.net/v/t31.0-8/20280602_1763293593711124_3813278718482219688_o.jpg?_nc_cat=107&ccb=2&_nc_sid=730e14&_nc_ohc=aHKQMwwsKWMAX_8oFIU&_nc_ht=scontent.ftpe9-1.fna&oh=82ff22fd127a6337b2fcdf8354f4bc8a&oe=5FEEF0EA",
+        "action": {
+          "type": "message",
+          "label": "提示",
+          "text": "@眾神餐桌上的光明"
+        }
+      },
+      {
+        "imageUrl": "https://0.share.photo.xuite.net/kuas1022/101414a/9776260/433258694_m.jpg",
+        "action": {
+          "type": "message",
+          "label": "提示",
+          "text": "@鎮廟除煞、守護大門的好伙伴"
+        }
+      },
+      {
+        "imageUrl": "https://pic.pimg.tw/djphoto/1345479305-819351842.jpg",
+        "action": {
+          "type": "message",
+          "label": "提示",
+          "text": "@萬物創造者，衪左肩上是什麼?"
+        }
+      }
+    ]
+  }
+}
+]

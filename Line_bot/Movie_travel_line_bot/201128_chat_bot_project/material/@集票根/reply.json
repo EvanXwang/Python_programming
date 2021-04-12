@@ -1,0 +1,26 @@
+
+[{
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "thumbnailImageUrl": "https://sctlivetheatre.com/wp-content/uploads/2013/11/purge-clipart-ticket-85041-768x808.jpg",
+    "imageAspectRatio": "square",
+    "imageSize": "contain",
+    "title": "集集票根",
+    "text": "集回憶，換點數",
+    "actions": [
+      {
+        "type": "uri",
+        "label": "拍照",
+        "uri": "https://line.me/R/nv/camera/"
+      },
+      {
+        "type": "message",
+        "label": "回憶票根匣",
+        "text": "@票根匣"
+      }
+    ]
+  }
+}
+  ]

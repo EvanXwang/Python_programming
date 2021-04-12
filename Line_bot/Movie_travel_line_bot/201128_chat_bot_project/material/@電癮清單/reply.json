@@ -1,0 +1,23 @@
+
+[
+ {
+  "type": "template",
+  "altText": "this is a buttons template",
+  "template": {
+    "type": "buttons",
+    "thumbnailImageUrl": "https://image.freepik.com/free-vector/colorful-movie-logo_18099-26.jpg",
+    "imageAspectRatio": "rectangle",
+    "imageSize": "cover",
+    "title": "                   查電癮",
+    "text": "查本週新片、等相關資訊",
+    "actions": [
+      {
+        "type": "postback",
+        "label": "GO",
+        "text": "@找電影",
+        "data": "data3"
+      }
+    ]
+  }
+}
+  ]
